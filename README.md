@@ -12,9 +12,11 @@
  - Игра с одним игроков(сам с собой)
  - Легкий уроквень, где противник - это ИИ
  - Сложный уровень, гле противник - ИИ с усложненной логикой
-![гомоку2](https://github.com/STALKSA/TicTacToe/assets/109988277/77b8c66d-4bbd-44e8-9c22-1eee59a1aec5)
 
 3. Подведение итогов и ведение счета
+![гомоку2](https://github.com/STALKSA/TicTacToe/assets/109988277/77b8c66d-4bbd-44e8-9c22-1eee59a1aec5)
+
+
 ![гомоку3](https://github.com/STALKSA/TicTacToe/assets/109988277/8e1fabc1-8a98-4340-9f6f-5a2abc4d9412)
 
 
