@@ -21,6 +21,7 @@
 
 ![гомоку3](https://github.com/STALKSA/TicTacToe/assets/109988277/8e1fabc1-8a98-4340-9f6f-5a2abc4d9412)
 
+4. Просмотр результатов за все сессии
 
 ![гомоку4](https://github.com/STALKSA/TicTacToe/assets/109988277/3b33ee1f-da84-4047-a11b-644e0b46b736)
 
